@@ -32,6 +32,10 @@ yarn install
 yarn serve
 ```
 
+And yeay, you have to run the project, now you can see on your browser at http://localhost:8080
+
+* You don't need to continue to the step below, if you just want to run this project on local environment
+
 ### Compiles and minifies for production
 ```
 yarn build
