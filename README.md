@@ -17,7 +17,7 @@ If you want to try this, please follow the steps bellow.
 git clone https://github.com/ahadsenja/web-profile.vue.git
 ```
 
-# Enter to the project directory
+## Enter to the project directory
 ```
 cd project-name
 ```
