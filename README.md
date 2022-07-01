@@ -10,7 +10,7 @@ This project's implements Vue Router with several components inside.
 
 Imgage resource: https://picsum.photos/
 
-If you want to try this, please follow the step bellow.
+If you want to try this, please follow the steps bellow.
 
 ## Clone this repo
 ```
