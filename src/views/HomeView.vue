@@ -31,10 +31,30 @@
         <Button class="flex justify-start" />
 
         <div class="sosmed flex mt-10">
-          <a class="pr-20 hover:text-gray-500" href="#">Twitter</a>
-          <a class="pr-20 hover:text-gray-500" href="#">Linkedin</a>
-          <a class="pr-20 hover:text-gray-500" href="#">Facebook</a>
-          <a class="pr-20 hover:text-gray-500" href="#">Instagram</a>
+          <a
+            class="pr-20 hover:text-gray-500"
+            href="https://twitter.com/ahadsenja"
+            target="_blank"
+            >Twitter</a
+          >
+          <a
+            class="pr-20 hover:text-gray-500"
+            href="https://www.linkedin.com/in/ahadsenja/"
+            target="_blank"
+            >Linkedin</a
+          >
+          <a
+            class="pr-20 hover:text-gray-500"
+            href="https://www.facebook.com/muhamadhamdanil"
+            target="_blank"
+            >Facebook</a
+          >
+          <a
+            class="pr-20 hover:text-gray-500"
+            href="https://www.instagram.com/ahadsenja/"
+            target="_blank"
+            >Instagram</a
+          >
         </div>
       </div>
     </div>
